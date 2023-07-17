@@ -9,28 +9,25 @@ lang: en-US
 # Pages to include in header navigation
 nav_pages:
   - index.html
-  - talks.md
-  - press.md
+#  - talks.md
+#  - press.md
   - about.md
   - contact.md
 
 # Pages to include in footer navigation
 footer_pages:
-  - books.md
-  - fine-print.md
+#  - books.md
+#  - fine-print.md
 
 # Disqus login information, for comments
 disqus:
-  shortname: DISQUS_USERNAME
+#  shortname: DISQUS_USERNAME
 
 # Links to include on the contact page
 contact_links:
   - name: Twitter
-    url: https://twitter.com/BenBalter
+    url: https://www.veri-sys.com
     icon: twitter
-  - name: Facebook
-    url: https://facebook.com/BenBalter
-    icon: facebook
 
 # Front matter defaults
 defaults:
@@ -50,8 +47,8 @@ defaults:
       comments: false
 
 # Plugins
-plugins:
-  - jekyll-seo-tag
-  - jekyll-avatar
-  - jekyll-github-metadata
-  - jekyll-feed
+#plugins:
+#  - jekyll-seo-tag
+#  - jekyll-avatar
+#  - jekyll-github-metadata
+#  - jekyll-feed
