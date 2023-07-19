@@ -40,9 +40,9 @@ const bookmarks = [
   {
     title: "Contact",
     links: [
-      { name: "595 Bay St., Toronto ON, M5G 2R3", url: ""},
-      { name: "contact@veri-sys.com", url: "mailto:contact@veri-sys.com" },
+      { name: "595 Bay St., Toronto ON, M5G 2R3", url: ""},      
       { name: "+1 437-886-2625", url: "" },
+      { name: "contact@veri-sys.com", url: "mailto:contact@veri-sys.com" },
     ],
   },
 ];
