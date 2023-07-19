@@ -1,15 +1,15 @@
 // Note: having length != 4 will mess with layout based on how the site is styled
 const bookmarks = [
-  {
-/*    title: "Links",
+/*  {
+    title: "Links",
     links: [
       { name: "About", url: "#about" },
       { name: "Services", url: "#services" },
       { name: "News", url: "#news" },
     ],
   },
-*/
-/*  {
+
+  {
     title: "Media",
     links: [
       { name: "Youtube", url: "https://youtube.com" },
